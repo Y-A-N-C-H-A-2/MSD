@@ -1,4 +1,4 @@
-package com.example.guessthenumber   // keep YOUR package line from Android Studio
+package com.example.guessthenumber
 
 import android.content.Context
 import android.os.Bundle

@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="48dp"
-        android:text="Player Statistics"
+        android:text="@string/statistics_title"
         android:textSize="26sp"
         android:textStyle="bold" />
 
@@ -29,13 +29,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="Back to Game" />
+        android:text="@string/back_to_game" />
 
     <Button
         android:id="@+id/buttonResetStats"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="Reset Statistics" />
+        android:text="@string/reset_statistics" />
 
 </LinearLayout>
