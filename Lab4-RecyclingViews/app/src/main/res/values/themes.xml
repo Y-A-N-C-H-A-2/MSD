@@ -1,0 +1,4 @@
+<resources>
+    <!-- AppCompat/Material theme: required because MainActivity extends AppCompatActivity -->
+    <style name="Theme.RecyclingViews" parent="Theme.MaterialComponents.DayNight.DarkActionBar" />
+</resources>
